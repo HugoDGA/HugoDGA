@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoDGA Am a Test Software Developer for electronics industry.
     I have more than 12 years developing manufacturing applications for the automotive and home improvements electronics industry with Server and Client applications.
-    Automation applications for programming devices at PCB level and device level, functional at PCB testers, Final Assembly testers, packing stations, labeling, scanning points, and more.  
+    Automation applications for programming devices at PCB level and device level, functional at PCB level testers, Final Assembly level testers, packing stations, labeling, scanning points, and more.  
     I handle Ansi C with more than 8 years of application development experience and currently 5 years developing applications in C#, and more than 10 years developing in Oracle  or SQL database
     
 
